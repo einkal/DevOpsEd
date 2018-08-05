@@ -1,4 +1,2 @@
 This is the first file added to feature one.
-
 new line added
-Line added from new feature 1.

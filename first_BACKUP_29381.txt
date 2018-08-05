@@ -1,4 +1,6 @@
 This is the first file added to feature one.
-
+<<<<<<< HEAD
 new line added
+=======
 Line added from new feature 1.
+>>>>>>> newfeature2
