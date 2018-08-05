@@ -1,5 +1,5 @@
 This is the first file added to feature one.
-
+ Line added to first from Feature.
 new line added
 Line added from new feature 1.
 New line added in feature branch 1
